@@ -67,3 +67,14 @@ li a:hover {
 .active {
     background-color: #2b5848;
 }
+
+#map {
+    width: 70%;
+    height: 70%;
+    text-align: center;
+}
+
+#model {
+    width: 80%;
+    height: 80%;
+}
